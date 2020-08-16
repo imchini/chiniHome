@@ -1,2 +1,5 @@
 # chiniHome
-my home site
+my home site...
+if you landed here you followed an incorrrect link.
+this is a readme; dumbass
+try adding "/homePage" to the end of the url...
